@@ -64,12 +64,28 @@ PureHealthTT is an e-commerce website selling plant-based foods, built using the
 
 - Access the website at `http://localhost:8000`.
 - Need to adjust the login information for the user with administrative privileges to ensure they can log in and manage the site.
-<!-- 
+
 ## Demo
 
 Here are some screenshots of the application in action:
 
-![1](https://via.placeholder.com/800x400) -->
+![1](https://nullcommand-restructuring.github.io/NULLCommand-Restructuring/PureHealthTTLaravelEC-DemoResources/1.png)
+
+![2](https://nullcommand-restructuring.github.io/NULLCommand-Restructuring/PureHealthTTLaravelEC-DemoResources/2.png)
+
+![3](https://nullcommand-restructuring.github.io/NULLCommand-Restructuring/PureHealthTTLaravelEC-DemoResources/3.png)
+
+![4](https://nullcommand-restructuring.github.io/NULLCommand-Restructuring/PureHealthTTLaravelEC-DemoResources/4.png)
+
+![5](https://nullcommand-restructuring.github.io/NULLCommand-Restructuring/PureHealthTTLaravelEC-DemoResources/5.png)
+
+![6](https://nullcommand-restructuring.github.io/NULLCommand-Restructuring/PureHealthTTLaravelEC-DemoResources/6.png)
+
+![7](https://nullcommand-restructuring.github.io/NULLCommand-Restructuring/PureHealthTTLaravelEC-DemoResources/7.png)   
+
+![8](https://nullcommand-restructuring.github.io/NULLCommand-Restructuring/PureHealthTTLaravelEC-DemoResources/8.png)
+
+![9](https://nullcommand-restructuring.github.io/NULLCommand-Restructuring/PureHealthTTLaravelEC-DemoResources/9.png)
 
 ## Contribution
 
