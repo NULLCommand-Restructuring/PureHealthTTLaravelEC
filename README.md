@@ -31,7 +31,7 @@ PureHealthTT is an e-commerce website selling plant-based foods, built using the
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/NULLCommand-Restructuring/PureHealthTTLaravelEC.git
+   git clone https://github.com/NULLCommand1/PureHealthTTLaravelEC.git
    cd PureHealthTTLaravelEC
    ```
 
@@ -69,23 +69,23 @@ PureHealthTT is an e-commerce website selling plant-based foods, built using the
 
 Here are some screenshots of the application in action:
 
-![1](https://nullcommand-restructuring.github.io/NULLCommand-Restructuring/PureHealthTTLaravelEC-DemoResources/1.png)
+![1](https://nullcommand1.github.io/NULLCommand1/PureHealthTTLaravelEC-DemoResources/1.png)
 
-![2](https://nullcommand-restructuring.github.io/NULLCommand-Restructuring/PureHealthTTLaravelEC-DemoResources/2.png)
+![2](https://nullcommand1.github.io/NULLCommand1/PureHealthTTLaravelEC-DemoResources/2.png)
 
-![3](https://nullcommand-restructuring.github.io/NULLCommand-Restructuring/PureHealthTTLaravelEC-DemoResources/3.png)
+![3](https://nullcommand1.github.io/NULLCommand1/PureHealthTTLaravelEC-DemoResources/3.png)
 
-![4](https://nullcommand-restructuring.github.io/NULLCommand-Restructuring/PureHealthTTLaravelEC-DemoResources/4.png)
+![4](https://nullcommand1.github.io/NULLCommand1/PureHealthTTLaravelEC-DemoResources/4.png)
 
-![5](https://nullcommand-restructuring.github.io/NULLCommand-Restructuring/PureHealthTTLaravelEC-DemoResources/5.png)
+![5](https://nullcommand1.github.io/NULLCommand1/PureHealthTTLaravelEC-DemoResources/5.png)
 
-![6](https://nullcommand-restructuring.github.io/NULLCommand-Restructuring/PureHealthTTLaravelEC-DemoResources/6.png)
+![6](https://nullcommand1.github.io/NULLCommand1/PureHealthTTLaravelEC-DemoResources/6.png)
 
-![7](https://nullcommand-restructuring.github.io/NULLCommand-Restructuring/PureHealthTTLaravelEC-DemoResources/7.png)   
+![7](https://nullcommand1.github.io/NULLCommand1/PureHealthTTLaravelEC-DemoResources/7.png)   
 
-![8](https://nullcommand-restructuring.github.io/NULLCommand-Restructuring/PureHealthTTLaravelEC-DemoResources/8.png)
+![8](https://nullcommand1.github.io/NULLCommand1/PureHealthTTLaravelEC-DemoResources/8.png)
 
-![9](https://nullcommand-restructuring.github.io/NULLCommand-Restructuring/PureHealthTTLaravelEC-DemoResources/9.png)
+![9](https://nullcommand1.github.io/NULLCommand1/PureHealthTTLaravelEC-DemoResources/9.png)
 
 ## Contribution
 
@@ -96,7 +96,7 @@ We welcome contributions from the community! If you would like to contribute to 
 2. **Clone Your Fork**: Clone the forked repository to your local machine using the following command:
 
  ```bash
-   git clone https://github.com/NULLCommand-Restructuring/PureHealthTTLaravelEC.git
+   git clone https://github.com/NULLCommand1/PureHealthTTLaravelEC.git
    cd PureHealthTTLaravelEC
    ```
 
