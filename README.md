@@ -126,4 +126,4 @@ Thank you for your contributions! Together, we can make **PureHealthTT** even be
 
 ## Contact
 
-If you have any questions or feedback, please contact via email: nguyenhuutaistd1@gmail.com.
+If you have any questions or feedback, please contact via email: nguyenhuutai.cv@gmail.com.
